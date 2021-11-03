@@ -1,0 +1,5 @@
+package com.appsdeveloperblog.app.ws.ui.model.requests;
+
+public class UserLoginRequestModel {
+
+}
